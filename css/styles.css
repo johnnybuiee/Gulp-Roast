@@ -95,6 +95,9 @@ nav a:hover {
     flex-flow: row wrap;
     justify-content: space-between;
 }
+.GulpContact a {
+    color: #59331D;
+}
 .ContactInfo {
     margin-left: 5rem
 }
