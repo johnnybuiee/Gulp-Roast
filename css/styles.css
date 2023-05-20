@@ -78,6 +78,15 @@ nav a:hover {
     flex-flow: row wrap;
     justify-content: space-between;
 }
+.HomeMain {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+.HomeMain a {
+    color: #59331D;
+}
 .GulpContact {
     max-width: 1200px;
     margin: 0 auto;
